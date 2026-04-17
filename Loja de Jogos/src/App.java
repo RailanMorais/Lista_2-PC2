@@ -7,7 +7,7 @@ public class App {
         int opcao;
         do {
             System.out.println("-----------------------------------");
-            System.out.println("Console");
+            System.out.println("Menu");
             System.out.println("1 - Cadastrar Item");
             System.out.println("2 - Listar Itens");
             System.out.println("3 - Buscar Item por Nome");
